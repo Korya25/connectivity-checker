@@ -1,17 +1,15 @@
-# test
+# 🚀 Flutter Connectivity Checker
 
-A new Flutter project.
+A plug-and-play solution to **detect real internet connection status** in Flutter apps.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✅ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 **Checks real internet access** (not just WiFi/Mobile).
+- 📶 Uses both `connectivity_plus` and `internet_connection_checker`.
+- 📢 Smart `NetworkBanner` auto-shows/hides based on status.
+- 🧱 Works seamlessly with `MaterialApp`, `GoRouter`, or any navigation approach.
+- 🧠 Built using **Clean Architecture principles**.
+- ✨ Comes with a beautiful default UI – fully customizable.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# connectivity-checker" 
